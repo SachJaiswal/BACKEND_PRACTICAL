@@ -1,0 +1,19 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "A backend project ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Sachin Jaiswal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
